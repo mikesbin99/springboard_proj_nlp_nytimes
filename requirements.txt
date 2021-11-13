@@ -23,3 +23,4 @@ pattern
 pynlpl
 spark-nlp
 pyspark
+textblob
