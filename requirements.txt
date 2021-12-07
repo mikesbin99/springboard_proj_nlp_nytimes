@@ -24,3 +24,7 @@ pynlpl
 spark-nlp
 pyspark
 textblob
+pandas-profiling
+missingno
+sweetviz
+textacy

@@ -1,0 +1,1 @@
+DATA_RAW_FOLDER_TO_NOTEBOOKS = '..//data//raw//'
