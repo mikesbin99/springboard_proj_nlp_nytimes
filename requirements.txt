@@ -28,3 +28,4 @@ pandas-profiling
 missingno
 sweetviz
 textacy
+tqdm
