@@ -1,6 +1,2 @@
-NY Times Articles
-
-
-An Analysis on Articles and Resultant Comments
-  An analysis of engagement
+# Springboard Capstone Three - NY Times Article Density Predicition using spaCy and LightGBM
  
